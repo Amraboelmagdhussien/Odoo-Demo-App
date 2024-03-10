@@ -1,0 +1,7 @@
+<odoo>
+    <menuitem id="menu_library"
+              name="library"
+              web_icon="library_app,static/description/icon.png"
+    />
+
+</odoo>

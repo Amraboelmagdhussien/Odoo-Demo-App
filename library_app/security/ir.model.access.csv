@@ -1,0 +1,3 @@
+id,name,model_id:id,group_id:id,perm_read,perm_write,perm_create,perm_unlink
+access_book,access_book,model_library_book,,1,1,1,1
+access_publiisher,access_publiisher,model_library_publiisher,,1,1,1,1
